@@ -11,9 +11,7 @@
 	[
 		{
 			"matches": [
-				"*://*.facebook.com/*", 
-				"*://*.twitter.com/*",
-				"*://apis.google.com/*"
+				"*://*/*"
 			],
 			"js": ["666.js"],
 			"run_at": "document_idle",

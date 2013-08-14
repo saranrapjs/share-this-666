@@ -31,6 +31,7 @@
   		'.pluginConnectButtonLayoutRoot', // facebook
   		'.count-o #count', // twitter
   		'#aggregateCount', // google plus
+  		'.fb-share-count'
   	].join(','))
 	for (var i in selectElements) {
 	  walk(selectElements[i], n);  	
