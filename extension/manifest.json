@@ -1,0 +1,23 @@
+{
+	"manifest_version": 2,
+	"name": "666 SHARES",
+	"version": "1.0",
+	"description": "browser extension which replaces all Twitter/Facebook/Google share counts with '666'",
+	"options_page": "options.html",
+	"permissions": [
+		"storage"
+	],
+	"content_scripts":
+	[
+		{
+			"matches": [
+				"*://*.facebook.com/*", 
+				"*://*.twitter.com/*",
+				"*://apis.google.com/*"
+			],
+			"js": ["666.js"],
+			"run_at": "document_idle",
+			"all_frames":true
+		}
+	]
+}
