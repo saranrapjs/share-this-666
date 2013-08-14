@@ -15,7 +15,8 @@ into this:
 
 For Chrome:
 - [Download the Chrome Extension](https://github.com/saranrapjs/share-this-666/blob/master/666.crx?raw=true)
-- [Open the Chrome Extensions manager ("Window -> Extensions")](chrome://extensions/)
+- Open the Chrome Extensions manager ("Window -> Extensions")
+- Drag in the extension
 
 ----
 
