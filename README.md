@@ -1,9 +1,9 @@
 SHARE THIS 666
 ==============
 
-browser extension which replaces all Twitter/Facebook/Google share counts with '666'
+browser extension that replaces all Twitter/Facebook/Google share counts with **666**
 
-turns this:
+it turns this:
 
 ![screen shot 2013-08-14 at 1 35 54 am](https://f.cloud.github.com/assets/707098/962187/81219728-04eb-11e3-9c74-0dac197133fd.png)
 
