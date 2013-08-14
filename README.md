@@ -16,12 +16,12 @@ into this:
 For Chrome:
 - [Download the Chrome Extension](https://github.com/saranrapjs/share-this-666/blob/master/666.crx?raw=true)
 - Open the Chrome Extensions manager ("Window -> Extensions")
-- Drag in the extension
+- Drag in the `666.crx` file
 
 ----
 
 ### OPTIONS:
-- "Use 420" mode: use 420 instead of 666
+![screen shot 2013-08-14 at 10 26 45 am](https://f.cloud.github.com/assets/707098/962327/964d4550-04ed-11e3-91dc-1ff2290759d7.png)
 
 ### TODO:
-- pack for Safari
+- Safari compatibility
